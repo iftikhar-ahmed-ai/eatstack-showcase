@@ -54,6 +54,33 @@ Designed and built by **Iftikhar Ahmed** with Claude Code (2026). Live at **[eat
 | <img src="images/rider_o01_offer_accept.jpg" width="260"> | <img src="images/rider_o03_on_the_way.jpg" width="260"> |
 | Nearby shops can ring the rider's phone. The rider sees the distance, the cash to collect and the fee, then taps Accept. | Pick-up and delivery details, Navigate, then Delivered: the rider keeps the fee and gives the shop the rest. |
 
+## For the platform owner (Super Admin panel)
+
+<p align="center">
+  <img src="images/admin_dashboard.jpg" width="820"><br>
+  <em>Super Admin dashboard: all shops on the platform, active and suspended shops, and this period's commission and app sales.</em>
+</p>
+
+<p align="center">
+  <img src="images/admin_approvals.jpg" width="820"><br>
+  <em>Shop approvals: new shops stay hidden from customers until the admin approves them.</em>
+</p>
+
+<p align="center">
+  <img src="images/admin_riders.jpg" width="820"><br>
+  <em>Riders: every rider needs a shopkeeper's guarantee and an ID check before approval. Waiting, approved, blocked, overdue and blacklist lists.</em>
+</p>
+
+<p align="center">
+  <img src="images/admin_audit_logs.jpg" width="820"><br>
+  <em>Audit logs: every admin and system action is recorded and can be filtered.</em>
+</p>
+
+<p align="center">
+  <img src="images/admin_settings_banner.jpg" width="820"><br>
+  <em>Platform settings: for example, the banner shown at the top of the customer app.</em>
+</p>
+
 ---
 
 ## What the platform does
@@ -66,6 +93,7 @@ Designed and built by **Iftikhar Ahmed** with Claude Code (2026). Live at **[eat
 | Phone inbox | Small shops handle orders on one phone, without a computer |
 | Rider app | Register, go online, accept, deliver, and pay the shop its share |
 | Billing | Billing statements and commission for each shop |
+| Super Admin panel | Approve shops and riders, billing periods, complaints, payments, audit logs, platform settings |
 | Many shops | Each shop's data is kept fully separate |
 
 ## In numbers
